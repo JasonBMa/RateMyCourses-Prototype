@@ -1,0 +1,14 @@
+.post {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+
+.post h2 {
+    margin-top: 0;
+}
+
+.post p {
+    margin-bottom: 0;
+}
