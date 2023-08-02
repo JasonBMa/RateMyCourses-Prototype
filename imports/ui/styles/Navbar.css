@@ -1,0 +1,26 @@
+/* Navbar.css */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+.branding {
+  margin-right: auto; /* Push the branding to the right side */
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.searchBar {
+  flex: 1; /* Take the available space in the middle */
+  margin: 0 20px;
+}
+
+.extraItems {
+  margin-left: auto; /* Push the additional items to the right side */
+  display: flex;
+  align-items: center;
+}
